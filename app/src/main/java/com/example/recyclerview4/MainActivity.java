@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     RecyclerView.Adapter programAdapter;
     RecyclerView.LayoutManager layoutManager;
     private ArrayList<CountryPojo> countryList=new ArrayList<>();
-    String [] countryNameList={"Azerbaijan","Bangladesh","Brazil","Canada","Germany","Portugal","South-Africa","Sri-Lanka","Turkey"};
+    String [] countryNameList={"Azerbaijan","Baladesh","Brazil","Canada","Germany","Portugal","South-Africa","Sri-Lanka","Turkey"};
     String [] countryDescriptionList={"Azerbaijan is located near black sea","Bangladesh is a riverine country","Brazil is famous for Aazon",
             "Canada is a secular country","Germany is a rich country in Europe","Portugal is famous for cr7","South-Africa is in Africa",
             "Sri-Lanka is an island","Turkey is a Muslim country"};
